@@ -6959,3 +6959,9 @@ h6 {
 .slider_text {
   padding-top: 150px;
 }
+
+@media only screen and (max-width: 991px) {
+  iframe {
+    width: 100%;
+  }
+}
